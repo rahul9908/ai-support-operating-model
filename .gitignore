@@ -1,0 +1,16 @@
+node_modules/
+.chart-data-*/
+.pptx-build/
+docx_word_qa/
+masters_docx_qa/
+docx_qa/
+docx_qa2/
+outputs/ai_support_transformation/qa_*.png
+outputs/ai_support_transformation/*.inspect.ndjson
+outputs/
+REPO_README.md
+build_*.mjs
+build_project.py
+render_word.ps1
+*.tmp
+*.log
