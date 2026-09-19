@@ -1,10 +1,10 @@
-# What the pilot data says
+# Pilot Evaluation Findings
 
-## Plain-English interpretation
+## Management interpretation
 
 The illustrative four-week pilot shows a promising but unfinished operating model. The system is already strong enough to assist agents with classification: accuracy reached **91.5%**, above the 90% pilot gate. Handling time also moved from a 12-minute baseline to **9.175 minutes**, a reduction of about **23.5%**. That is meaningful capacity improvement, but the workbook correctly treats it as capacity value rather than guaranteed cash savings.
 
-The main constraint is response safety. The unsupported-claim rate fell from 6.0% to **2.2%**, yet the release rule requires less than 2%. In human terms, the assistant is usually useful, but it still produces too many answers that need fact checking before they can be trusted. Response acceptance is **52%**, below the 55% target, which reinforces the need to improve retrieval quality, citation visibility, and drafting prompts before expanding the pilot.
+The principal control gap concerns response safety. The unsupported-claim rate fell from 6.0% to **2.2%**, yet the release rule requires less than 2%. The result indicates that generated responses still require additional verification before customer delivery. Response acceptance is **52%**, below the 55% target, which reinforces the need to improve retrieval quality, citation visibility, and drafting prompts before expanding the pilot.
 
 Customer experience is encouraging. Satisfaction reached **4.24/5**, above the 4.2 threshold, while first-contact resolution reached **72%**. Escalation is **26%**, below the 30% planning target. That lower rate is not automatically a success: the team must confirm that sensitive cases are still being captured at 100% before interpreting fewer escalations as efficiency.
 

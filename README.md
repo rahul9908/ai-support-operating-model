@@ -41,11 +41,11 @@ flowchart LR
 | Customer satisfaction | ≥ 4.2 / 5 |
 | Severity 1–2 defects | 0 open before expansion |
 
-## Findings in human terms
+## Pilot evaluation findings
 
 The illustrative pilot is promising but not ready for unrestricted rollout. Classification accuracy reached **91.5%** and average handling time fell from 12 minutes to **9.175 minutes**, showing real agent-capacity potential. However, unsupported claims remain at **2.2%** against a less-than-2% release gate, and response acceptance is **52%** against a 55% target. The practical conclusion is to continue a controlled pilot with human approval while improving retrieval grounding and draft quality.
 
-[Read the full plain-English interpretation and data-quality notes](FINDINGS.md).
+[Read the full management interpretation and data-quality notes](FINDINGS.md).
 
 ![AI Support Pilot Dashboard](docs/assets/ai-support-pilot-dashboard.png)
 
