@@ -1,6 +1,6 @@
 # AI Support Operating Model
 
-Masters-level applied business analysis project for designing, governing, evaluating, and delivering an AI-assisted customer-support operating model.
+Applied business analysis project for designing, governing, evaluating, and delivering an AI-assisted customer-support operating model.
 
 ## Executive summary
 
@@ -51,7 +51,7 @@ The illustrative pilot is promising but not ready for unrestricted rollout. Clas
 
 *The dashboard makes the trade-off visible: service efficiency and classification are improving, while safety and acceptance still determine whether the model is ready to scale.*
 
-## Why this is Masters level
+## Analytical depth
 
 The work treats AI adoption as a socio-technical change rather than a model-installation exercise. It includes:
 
